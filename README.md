@@ -15,5 +15,6 @@ I am Satvik a passionate Frontend Developer from India.<br>Currently pursuing CS
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SATVIK-SHANKAR&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=SATVIK-SHANKAR)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
