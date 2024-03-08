@@ -14,6 +14,6 @@ I am Satvik a passionate Frontend Developer from India.<br>Currently pursuing CS
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SATVIK-SHANKAR&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SATVIK-SHANKAR&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SATVIK-SHANKAR&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
